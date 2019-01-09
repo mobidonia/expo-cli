@@ -271,6 +271,11 @@ const expoSdkUniversalModules = [
     sdkVersions: '>=30.0.0',
   },
   {
+    podName: 'EXKeepAwake',
+    libName: 'expo-keep-awake',
+    sdkVersions: '>=32.0.0',
+  },
+  {
     podName: 'EXMediaLibrary',
     libName: 'expo-media-library',
     sdkVersions: '>=30.0.0',
