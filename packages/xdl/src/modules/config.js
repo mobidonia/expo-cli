@@ -256,6 +256,11 @@ const expoSdkUniversalModules = [
     sdkVersions: '>=30.0.0',
   },
   {
+    podName: 'EXImageManipulator',
+    libName: 'expo-image-manipulator',
+    sdkVersions: '>=33.0.0',
+  },
+  {
     podName: 'EXLocalAuthentication',
     libName: 'expo-local-authentication',
     sdkVersions: '>=30.0.0',
